@@ -1,0 +1,16 @@
+﻿Choose your own adventure game
+
+Author: NotGraeme
+
+*000*2022-06-18 04:41
+
+I was thinking of creating a choose your own adventure kind of game about a woman who goes out with her friends to a few different bars and needs to go to the bathroom. I might do some simple artwork to throw in as well. I was wondering, what would you like the main character (this character would be the one who needs to pee) or the two friends she'd go with to look like (clothing, body type, hair colour, ethnicity, e.t.c.)?
+
+If you have any ideas, please write them here! If I like some of them, I might use them in the story.
+
+If you have any suggestions for the story too, please let me know! I can't guarantee that I'll use them, but if it's a good idea I'll see if I can implement it.
+
+*004*2022-06-19 04:28
+
+It makes me happy that you guys are looking forward to this! Just letting you know, it will not be a very detailed game. The story will be mostly linear, and it will be structured like a novel with choices every once in a while.
+
