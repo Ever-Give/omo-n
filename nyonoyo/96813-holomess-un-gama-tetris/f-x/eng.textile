@@ -1,4 +1,4 @@
-HoloMess ~Un-Gama Tetris~
+HoloMess (Un-Gama Tetris)
 
 Author: nyonoyo
 
